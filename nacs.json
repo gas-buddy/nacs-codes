@@ -1,0 +1,6679 @@
+[
+  {
+    "longName": "Unleaded Regular",
+    "billCode": "FUL",
+    "standardCode": "001",
+    "shortName": "UNL"
+  },
+  {
+    "longName": "Unleaded Plus",
+    "billCode": "FUL",
+    "standardCode": "002",
+    "shortName": "UN+"
+  },
+  {
+    "longName": "Unleaded Super",
+    "billCode": "FUL",
+    "standardCode": "003",
+    "shortName": "SUP"
+  },
+  {
+    "longName": "Unleaded 4",
+    "billCode": "FUL",
+    "standardCode": "004",
+    "shortName": "SUP"
+  },
+  {
+    "longName": "Unleaded 5",
+    "billCode": "FUL",
+    "standardCode": "005",
+    "shortName": "SUP"
+  },
+  {
+    "longName": "Unleaded Methanol (5.7% blend)",
+    "billCode": "FUL",
+    "standardCode": "006",
+    "shortName": "Unc"
+  },
+  {
+    "longName": "Unleaded Plus Methanol (5.7% blend)",
+    "billCode": "FUL",
+    "standardCode": "007",
+    "shortName": "U+c"
+  },
+  {
+    "longName": "Super Unleaded Methanol (5.7% blend)",
+    "billCode": "FUL",
+    "standardCode": "008",
+    "shortName": "Suc"
+  },
+  {
+    "longName": "Unleaded Methanol (7.7% blend)",
+    "billCode": "FUL",
+    "standardCode": "009",
+    "shortName": "Unb"
+  },
+  {
+    "longName": "Unleaded Plus Methanol (7.7% blend)",
+    "billCode": "FUL",
+    "standardCode": "010",
+    "shortName": "U+b"
+  },
+  {
+    "longName": "Unleaded Ethanol (5.7% blend)",
+    "billCode": "FUL",
+    "standardCode": "011",
+    "shortName": "ETH"
+  },
+  {
+    "longName": "Unleaded Plus Ethanol (5.7% blend)",
+    "billCode": "FUL",
+    "standardCode": "012",
+    "shortName": "ETH"
+  },
+  {
+    "longName": "Super Unleaded Ethanol (5.7% blend)",
+    "billCode": "FUL",
+    "standardCode": "013",
+    "shortName": "ETH"
+  },
+  {
+    "longName": "Unleaded Ethanol (7.7% blend)",
+    "billCode": "FUL",
+    "standardCode": "014",
+    "shortName": "ETH"
+  },
+  {
+    "longName": "Unleaded Plus Ethanol (7.7% blend)",
+    "billCode": "FUL",
+    "standardCode": "015",
+    "shortName": "ETH"
+  },
+  {
+    "longName": "Methanol / Leaded",
+    "billCode": "FUL",
+    "standardCode": "016",
+    "shortName": "METH"
+  },
+  {
+    "longName": "Ethanol / Leaded",
+    "billCode": "FUL",
+    "standardCode": "017",
+    "shortName": "ETH"
+  },
+  {
+    "longName": "Leaded",
+    "billCode": "FUL",
+    "standardCode": "018",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Regular Diesel #2",
+    "billCode": "FUL",
+    "standardCode": "019",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Premium Diesel #2",
+    "billCode": "FUL",
+    "standardCode": "020",
+    "shortName": "DS+"
+  },
+  {
+    "longName": "Diesel #1",
+    "billCode": "FUL",
+    "standardCode": "021",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Compressed Natural Gas",
+    "billCode": "FUL",
+    "standardCode": "022",
+    "shortName": "CNG"
+  },
+  {
+    "longName": "Liquid Propane Gas",
+    "billCode": "FUL",
+    "standardCode": "023",
+    "shortName": "LP"
+  },
+  {
+    "longName": "Liquid Natural Gas",
+    "billCode": "FUL",
+    "standardCode": "024",
+    "shortName": "LNG"
+  },
+  {
+    "longName": "M-85",
+    "billCode": "FUL",
+    "standardCode": "025",
+    "shortName": "M85"
+  },
+  {
+    "longName": "E-85",
+    "billCode": "FUL",
+    "standardCode": "026",
+    "shortName": "E85"
+  },
+  {
+    "longName": "Unleaded - Reformulated 1",
+    "billCode": "FUL",
+    "standardCode": "027",
+    "shortName": "UNL"
+  },
+  {
+    "longName": "Unleaded - Reformulated 2",
+    "billCode": "FUL",
+    "standardCode": "028",
+    "shortName": "UNL"
+  },
+  {
+    "longName": "Unleaded - Reformulated 3",
+    "billCode": "FUL",
+    "standardCode": "029",
+    "shortName": "UNL"
+  },
+  {
+    "longName": "Unleaded - Reformulated 4",
+    "billCode": "FUL",
+    "standardCode": "030",
+    "shortName": "UNL"
+  },
+  {
+    "longName": "Unleaded - Reformulated 5",
+    "billCode": "FUL",
+    "standardCode": "031",
+    "shortName": "UNL"
+  },
+  {
+    "longName": "Diesel Off Road (#1 and #2 non-taxable)",
+    "billCode": "FUL",
+    "standardCode": "032",
+    "shortName": "FRM"
+  },
+  {
+    "longName": "Ultra Low Sulfur Diesel Off-Road (Non-Taxable)",
+    "billCode": "FUL",
+    "standardCode": "033",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Biodiesel Blend Off-Road (Non-Taxable)",
+    "billCode": "FUL",
+    "standardCode": "034",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Ultra Low Sulfur Biodiesel Blend Off-Road (Non-Taxable)",
+    "billCode": "FUL",
+    "standardCode": "035",
+    "shortName": "REF"
+  },
+  {
+    "longName": "Racing Fuel",
+    "billCode": "FUL",
+    "standardCode": "036",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Super Unleaded Methanol (7.7% blend)",
+    "billCode": "FUL",
+    "standardCode": "037",
+    "shortName": "Sub"
+  },
+  {
+    "longName": "Unleaded Methanol (10% blend)",
+    "billCode": "FUL",
+    "standardCode": "038",
+    "shortName": "Una"
+  },
+  {
+    "longName": "Unleaded Plus Methanol (10% blend)",
+    "billCode": "FUL",
+    "standardCode": "039",
+    "shortName": "U+a"
+  },
+  {
+    "longName": "Super Unleaded Methanol (10% blend)",
+    "billCode": "FUL",
+    "standardCode": "040",
+    "shortName": "Sua"
+  },
+  {
+    "longName": "Super Unleaded Ethanol (7.7% blend)",
+    "billCode": "FUL",
+    "standardCode": "041",
+    "shortName": "ETH"
+  },
+  {
+    "longName": "Unleaded Ethanol (10% blend)",
+    "billCode": "FUL",
+    "standardCode": "042",
+    "shortName": "ETH"
+  },
+  {
+    "longName": "Unleaded Plus Ethanol (10% blend)",
+    "billCode": "FUL",
+    "standardCode": "043",
+    "shortName": "ETH"
+  },
+  {
+    "longName": "Super Unleaded Ethanol (10% blend)",
+    "billCode": "FUL",
+    "standardCode": "044",
+    "shortName": "ETH"
+  },
+  {
+    "longName": "B2 Diesel Blend 2% Biodiesel",
+    "billCode": "FUL",
+    "standardCode": "045",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "B5 Diesel Blend 5% Biodiesel",
+    "billCode": "FUL",
+    "standardCode": "046",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "B10 Diesel 10% Biodiesel",
+    "billCode": "FUL",
+    "standardCode": "047",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "B11 Diesel 11% Biodiesel",
+    "billCode": "FUL",
+    "standardCode": "048",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "B15 Diesel 15% Biodiesel",
+    "billCode": "FUL",
+    "standardCode": "049",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "B20 Diesel 20% Biodiesel",
+    "billCode": "FUL",
+    "standardCode": "050",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "B100 Diesel 100% Biodiesel",
+    "billCode": "FUL",
+    "standardCode": "051",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Ultra Low Sulfur #1",
+    "billCode": "FUL",
+    "standardCode": "052",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Ultra Low Sulfur #2",
+    "billCode": "FUL",
+    "standardCode": "053",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Ultra Low Sulfur Premium Diesel #2",
+    "billCode": "FUL",
+    "standardCode": "054",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Ultra Low Sulfur Biodiesel Blend 2%",
+    "billCode": "FUL",
+    "standardCode": "055",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Ultra Low Sulfur Biodiesel Blend 5%",
+    "billCode": "FUL",
+    "standardCode": "056",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Ultra Low Sulfur Biodiesel Blend 10",
+    "billCode": "FUL",
+    "standardCode": "057",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Ultra Low Sulfur Biodiesel Blend 11%",
+    "billCode": "FUL",
+    "standardCode": "058",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Ultra Low Sulfur Biodiesel Blend 15%",
+    "billCode": "FUL",
+    "standardCode": "059",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Ultra Low Sulfur Biodiesel Blend 20%",
+    "billCode": "FUL",
+    "standardCode": "060",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Ultra Low Sulfur Biodiesel Blend 100%",
+    "billCode": "FUL",
+    "standardCode": "061",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Diesel Exhaust Fluid",
+    "billCode": "FUL",
+    "standardCode": "062",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Premium Diesel #1",
+    "billCode": "FUL",
+    "standardCode": "063",
+    "shortName": "DS+"
+  },
+  {
+    "longName": "Unleaded Ethanol (15% Blend)",
+    "billCode": "FUL",
+    "standardCode": "064",
+    "shortName": "ETH"
+  },
+  {
+    "longName": "Unleaded Plus Ethanol (15% Blend)",
+    "billCode": "FUL",
+    "standardCode": "065",
+    "shortName": "ETH"
+  },
+  {
+    "longName": "Super Unleaded Ethanol (15% Blend)",
+    "billCode": "FUL",
+    "standardCode": "066",
+    "shortName": "ETH"
+  },
+  {
+    "longName": "Premium Diesel Blend <20% Biodiesel",
+    "billCode": "FUL",
+    "standardCode": "067",
+    "shortName": "BIOD"
+  },
+  {
+    "longName": "Premium Diesel Blend >= 20% Biodiesel",
+    "billCode": "FUL",
+    "standardCode": "068",
+    "shortName": "BIOD"
+  },
+  {
+    "longName": "B75 Diesel Blend 75% Biodiesel",
+    "billCode": "FUL",
+    "standardCode": "069",
+    "shortName": "BIOD"
+  },
+  {
+    "longName": "New B99 Diesel Blend 99% Biodiesel",
+    "billCode": "FUL",
+    "standardCode": "070",
+    "shortName": "BIOD"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "071",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "072",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "073",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "074",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "075",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "076",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "077",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "078",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "079",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "080",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "081",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "082",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "083",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "084",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "085",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "086",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "087",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "088",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "089",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Unleaded Plus Ethanol (7.7% blend)",
+    "billCode": "FUL",
+    "standardCode": "090",
+    "shortName": "MLe"
+  },
+  {
+    "longName": "E-85",
+    "billCode": "FUL",
+    "standardCode": "091",
+    "shortName": "UNe"
+  },
+  {
+    "longName": "Super Unleaded Ethanol (10% blend)",
+    "billCode": "FUL",
+    "standardCode": "092",
+    "shortName": "SUe"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "093",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "094",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "095",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "096",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "097",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "098",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Undefined Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "099",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Jet Fuel Regular",
+    "billCode": "FUL",
+    "standardCode": "150",
+    "shortName": "JA"
+  },
+  {
+    "longName": "Jet Fuel Premium",
+    "billCode": "FUL",
+    "standardCode": "151",
+    "shortName": "JAA"
+  },
+  {
+    "longName": "Jet Fuel JP8",
+    "billCode": "FUL",
+    "standardCode": "152",
+    "shortName": "JB"
+  },
+  {
+    "longName": "Aviation Fuel 3",
+    "billCode": "FUL",
+    "standardCode": "153",
+    "shortName": "JP8"
+  },
+  {
+    "longName": "Aviation Fuel 4",
+    "billCode": "FUL",
+    "standardCode": "154",
+    "shortName": "AG1"
+  },
+  {
+    "longName": "Aviation Fuel 5",
+    "billCode": "FUL",
+    "standardCode": "155",
+    "shortName": "AG8"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "156",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "157",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "158",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "159",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "160",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "161",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "162",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "163",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "164",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "165",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "166",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "167",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "168",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "169",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "170",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "171",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "172",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Undefined Aviation Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "173",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Miscellaneous Aviation Fuel",
+    "billCode": "FUL",
+    "standardCode": "174",
+    "shortName": "MFL"
+  },
+  {
+    "longName": "Marine Fuel 1",
+    "billCode": "FUL",
+    "standardCode": "225",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Marine Fuel 2",
+    "billCode": "FUL",
+    "standardCode": "226",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Marine Fuel 3",
+    "billCode": "FUL",
+    "standardCode": "227",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Marine Fuel 4",
+    "billCode": "FUL",
+    "standardCode": "228",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Marine Fuel 5",
+    "billCode": "FUL",
+    "standardCode": "229",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Marine - Other",
+    "billCode": "FUL",
+    "standardCode": "230",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "231",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "232",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "233",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "234",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "235",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "236",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "237",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "238",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "239",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "240",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "241",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "242",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "243",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "244",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "245",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "246",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "247",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Undefined Marine Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "248",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Miscellaneous Marine Fuel",
+    "billCode": "FUL",
+    "standardCode": "249",
+    "shortName": "MFUL"
+  },
+  {
+    "longName": "Kerosene - Low Sulfur",
+    "billCode": "FUL",
+    "standardCode": "300",
+    "shortName": "KERO"
+  },
+  {
+    "longName": "White Gas",
+    "billCode": "FUL",
+    "standardCode": "301",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Heating Oil",
+    "billCode": "FUL",
+    "standardCode": "302",
+    "shortName": "HOIL"
+  },
+  {
+    "longName": "Bottled Propane",
+    "billCode": "FUL",
+    "standardCode": "303",
+    "shortName": "PRO"
+  },
+  {
+    "longName": "Other Fuel (Non-Taxable)",
+    "billCode": "FUL",
+    "standardCode": "304",
+    "shortName": "FUL"
+  },
+  {
+    "longName": "Kerosene - Ultra Low Sulfur",
+    "billCode": "FUL",
+    "standardCode": "305",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Kerosene - Low Sulfur (non-taxable)",
+    "billCode": "FUL",
+    "standardCode": "306",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Kerosene - Ultra Low Sulfur (non-taxable)",
+    "billCode": "FUL",
+    "standardCode": "307",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "308",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "309",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "310",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "New Biodiesel Blend 2% Off-Road",
+    "billCode": "FUL",
+    "standardCode": "311",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Biodiesel Blend 5% Off-Road",
+    "billCode": "FUL",
+    "standardCode": "312",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Biodiesel Blend 10% Off-Road",
+    "billCode": "FUL",
+    "standardCode": "313",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Biodiesel Blend 11% Off-Road",
+    "billCode": "FUL",
+    "standardCode": "314",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Biodiesel Blend 15% Off-Road",
+    "billCode": "FUL",
+    "standardCode": "315",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Biodiesel Blend 20% Off-Road",
+    "billCode": "FUL",
+    "standardCode": "316",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Diesel # 1 Off-Road",
+    "billCode": "FUL",
+    "standardCode": "317",
+    "shortName": "FRM"
+  },
+  {
+    "longName": "Diesel # 2 Off-Road",
+    "billCode": "FUL",
+    "standardCode": "318",
+    "shortName": "FRM"
+  },
+  {
+    "longName": "Diesel # 1 Premium Off-Road",
+    "billCode": "FUL",
+    "standardCode": "319",
+    "shortName": "FRM"
+  },
+  {
+    "longName": "Diesel # 2 Premium Off-Road",
+    "billCode": "FUL",
+    "standardCode": "320",
+    "shortName": "FRM"
+  },
+  {
+    "longName": "Additive Dosage",
+    "billCode": "SER",
+    "standardCode": "321",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Unleaded Ethanol Blends E16-84",
+    "billCode": "FUL",
+    "standardCode": "322",
+    "shortName": "E85"
+  },
+  {
+    "longName": "Low Octane Unleaded",
+    "billCode": "FUL",
+    "standardCode": "323",
+    "shortName": "UNL"
+  },
+  {
+    "longName": "Blended Diesel (#1 & #2)",
+    "billCode": "FUL",
+    "standardCode": "324",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "325",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "326",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "327",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "328",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "329",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "330",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "331",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "332",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "333",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "334",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "335",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "336",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "337",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "338",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "339",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "340",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "341",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "342",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "343",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "344",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "345",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "346",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "347",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "348",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "349",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "350",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "351",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "352",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "353",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "354",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "355",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "356",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "357",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "358",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "359",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "360",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "361",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "362",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "363",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "364",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "365",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "366",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "367",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "368",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "369",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "370",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "371",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "372",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "373",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "374",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "375",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "376",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "377",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "378",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "379",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for NACS Future Use",
+    "billCode": "FUL",
+    "standardCode": "380",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "381",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "382",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "383",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "384",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "385",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "386",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "387",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "388",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "389",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "390",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "391",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "392",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "393",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "394",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "395",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "396",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "397",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Undefined Other Fuel-Reserved for Proprietary Use",
+    "billCode": "FUL",
+    "standardCode": "398",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "Miscellaneous Other Fuel",
+    "billCode": "FUL",
+    "standardCode": "399",
+    "shortName": "OFUL"
+  },
+  {
+    "longName": "No Lead with Lead Substitute",
+    "billCode": "FUL",
+    "standardCode": "1000",
+    "shortName": "UNL"
+  },
+  {
+    "longName": "#1 Diesel",
+    "billCode": "FUL",
+    "standardCode": "1001",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Marked Red Diesel",
+    "billCode": "FUL",
+    "standardCode": "1002",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Off Road Kerosene",
+    "billCode": "FUL",
+    "standardCode": "1003",
+    "shortName": "FRM"
+  },
+  {
+    "longName": "Ultra Low Diesel #2",
+    "billCode": "FUL",
+    "standardCode": "1004",
+    "shortName": "DSL"
+  },
+  {
+    "longName": "Off Road Biodiesel",
+    "billCode": "FUL",
+    "standardCode": "1005",
+    "shortName": "FRM"
+  },
+  {
+    "longName": "BioDiesel up to 5% Blend",
+    "billCode": "FUL",
+    "standardCode": "1020",
+    "shortName": "BDL"
+  },
+  {
+    "longName": "Off Road Diesel",
+    "billCode": "FUL",
+    "standardCode": "1021",
+    "shortName": "ORD"
+  },
+  {
+    "longName": "Unleaded LS 10% Ethanol",
+    "billCode": "FUL",
+    "standardCode": "1022",
+    "shortName": "UNLS"
+  },
+  {
+    "longName": "Red Ultralow #1",
+    "billCode": "FUL",
+    "standardCode": "1023",
+    "shortName": "RUL1"
+  },
+  {
+    "longName": "Off Rd Bio B100",
+    "billCode": "FUL",
+    "standardCode": "1024",
+    "shortName": "ORBD"
+  },
+  {
+    "longName": "Bio-diesel (B99)",
+    "billCode": "FUL",
+    "standardCode": "1025",
+    "shortName": "BIOD"
+  },
+  {
+    "longName": "Off Road Bio-diesel (B5).",
+    "billCode": "FUL",
+    "standardCode": "1026",
+    "shortName": "ORBD"
+  },
+  {
+    "longName": "Off Road Bio-diesel (B10)",
+    "billCode": "FUL",
+    "standardCode": "1027",
+    "shortName": "ORBD"
+  },
+  {
+    "longName": "Off Road Bio-diesel (B11)",
+    "billCode": "FUL",
+    "standardCode": "1028",
+    "shortName": "ORBD"
+  },
+  {
+    "longName": "Off Road Bio-diesel (B15)",
+    "billCode": "FUL",
+    "standardCode": "1029",
+    "shortName": "ORBD"
+  },
+  {
+    "longName": "Off Road Bio-diesel (B99)",
+    "billCode": "FUL",
+    "standardCode": "1030",
+    "shortName": "ORBD"
+  },
+  {
+    "longName": "Federal Excise Tax (Tires)",
+    "billCode": "OTH",
+    "standardCode": "110",
+    "shortName": "TTAX"
+  },
+  {
+    "longName": "Storage",
+    "billCode": "OTH",
+    "standardCode": "175",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Aircraft Ground Handling",
+    "billCode": "OTH",
+    "standardCode": "176",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Aircraft Ground Power Unit",
+    "billCode": "OTH",
+    "standardCode": "177",
+    "shortName": "APU"
+  },
+  {
+    "longName": "Transportation",
+    "billCode": "OTH",
+    "standardCode": "182",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "De-icing",
+    "billCode": "OTH",
+    "standardCode": "183",
+    "shortName": "DIC"
+  },
+  {
+    "longName": "Ramp Fees",
+    "billCode": "OTH",
+    "standardCode": "184",
+    "shortName": "RMP"
+  },
+  {
+    "longName": "Hangar Fee",
+    "billCode": "OTH",
+    "standardCode": "186",
+    "shortName": "HNG"
+  },
+  {
+    "longName": "Landing Fee",
+    "billCode": "OTH",
+    "standardCode": "187",
+    "shortName": "LND"
+  },
+  {
+    "longName": "Call Out Fee",
+    "billCode": "OTH",
+    "standardCode": "188",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Aircraft Rental",
+    "billCode": "OTH",
+    "standardCode": "189",
+    "shortName": "ARN"
+  },
+  {
+    "longName": "Instruction Fee",
+    "billCode": "OTH",
+    "standardCode": "190",
+    "shortName": "LES"
+  },
+  {
+    "longName": "Flight Plans / Weather Brief",
+    "billCode": "OTH",
+    "standardCode": "191",
+    "shortName": "PLN"
+  },
+  {
+    "longName": "Charter Fee",
+    "billCode": "OTH",
+    "standardCode": "192",
+    "shortName": "CHR"
+  },
+  {
+    "longName": "Communication Fee",
+    "billCode": "OTH",
+    "standardCode": "193",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Aircraft Cleaning",
+    "billCode": "OTH",
+    "standardCode": "194",
+    "shortName": "CLN"
+  },
+  {
+    "longName": "Cargo Handling",
+    "billCode": "OTH",
+    "standardCode": "195",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Aircraft Accessories",
+    "billCode": "OTH",
+    "standardCode": "196",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Pilot Supplies",
+    "billCode": "OTH",
+    "standardCode": "197",
+    "shortName": "PTS"
+  },
+  {
+    "longName": "Aircraft Parking Fees",
+    "billCode": "OTH",
+    "standardCode": "198",
+    "shortName": "PRK"
+  },
+  {
+    "longName": "Aircraft Tiedown Fees",
+    "billCode": "OTH",
+    "standardCode": "199",
+    "shortName": "TIE"
+  },
+  {
+    "longName": "Aircraft Sanitation Fees",
+    "billCode": "OTH",
+    "standardCode": "200",
+    "shortName": "FLW"
+  },
+  {
+    "longName": "Aircraft Fuel Additive",
+    "billCode": "OTH",
+    "standardCode": "201",
+    "shortName": "FAD"
+  },
+  {
+    "longName": "AC Parts",
+    "billCode": "SER",
+    "standardCode": "202",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Oxygen",
+    "billCode": "OTH",
+    "standardCode": "203",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Undefined Aviation-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "204",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Reservice (Repeated Maintenance)",
+    "billCode": "SER",
+    "standardCode": "205",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Static Dissipator Additive",
+    "billCode": "OTH",
+    "standardCode": "206",
+    "shortName": "FAD"
+  },
+  {
+    "longName": "Corrosion Inhibitor",
+    "billCode": "OTH",
+    "standardCode": "207",
+    "shortName": "FAD"
+  },
+  {
+    "longName": "Airport Fees",
+    "billCode": "OTH",
+    "standardCode": "208",
+    "shortName": "LND"
+  },
+  {
+    "longName": "Overtime Fees",
+    "billCode": "OTH",
+    "standardCode": "209",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "IT / Bladder",
+    "billCode": "OTH",
+    "standardCode": "210",
+    "shortName": "RSV"
+  },
+  {
+    "longName": "Ground Equipment Service Fees",
+    "billCode": "OTH",
+    "standardCode": "211",
+    "shortName": "RMP"
+  },
+  {
+    "longName": "Secure Fees",
+    "billCode": "OTH",
+    "standardCode": "212",
+    "shortName": "TIE"
+  },
+  {
+    "longName": "Flow Fee",
+    "billCode": "OTH",
+    "standardCode": "213",
+    "shortName": "HNG"
+  },
+  {
+    "longName": "Undefined Aviation-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "214",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Undefined Aviation-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "215",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Undefined Aviation-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "216",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Undefined Aviation-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "217",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Undefined Aviation-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "218",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Undefined Aviation-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "219",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Undefined Aviation-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "220",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Undefined Aviation-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "221",
+    "shortName": "AMC",
+    "unitType": "each"
+  },
+  {
+    "longName": "Undefined Aviation-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "222",
+    "shortName": "AMC",
+    "unitType": "each"
+  },
+  {
+    "longName": "Undefined Aviation-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "223",
+    "shortName": "AMC",
+    "unitType": "each"
+  },
+  {
+    "longName": "Miscellaneous Aviation",
+    "billCode": "OTH",
+    "standardCode": "224",
+    "shortName": "RSV"
+  },
+  {
+    "longName": "Launch Fee",
+    "billCode": "OTH",
+    "standardCode": "253",
+    "shortName": "MISC",
+    "unitType": "each"
+  },
+  {
+    "longName": "Slip Rental",
+    "billCode": "OTH",
+    "standardCode": "254",
+    "shortName": "MISC",
+    "unitType": "each"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "255",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "256",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "257",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "258",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "259",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "260",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "261",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "262",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "263",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "264",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "265",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "266",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "267",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "268",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "269",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "270",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "271",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "272",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "273",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "274",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "275",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "276",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "277",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "278",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "279",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "280",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "281",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "282",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "283",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "284",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "285",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "286",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "287",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "288",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "289",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "290",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "291",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "292",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "293",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "294",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "295",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "296",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "297",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Marine Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "298",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "General Merchandise",
+    "billCode": "OTH",
+    "standardCode": "400",
+    "shortName": "OTH"
+  },
+  {
+    "longName": "General Ice",
+    "billCode": "OTH",
+    "standardCode": "401",
+    "shortName": "OTH"
+  },
+  {
+    "longName": "General Undefined-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "402",
+    "shortName": "OTH"
+  },
+  {
+    "longName": "General Undefined-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "403",
+    "shortName": "OTH"
+  },
+  {
+    "longName": "General Undefined-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "404",
+    "shortName": "OTH"
+  },
+  {
+    "longName": "General Undefined-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "405",
+    "shortName": "OTH"
+  },
+  {
+    "longName": "General Undefined-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "406",
+    "shortName": "OTH"
+  },
+  {
+    "longName": "General Undefined-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "407",
+    "shortName": "OTH"
+  },
+  {
+    "longName": "General Undefined-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "408",
+    "shortName": "OTH"
+  },
+  {
+    "longName": "General Undefined-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "409",
+    "shortName": "OTH"
+  },
+  {
+    "longName": "General Tobacco",
+    "billCode": "OTH",
+    "standardCode": "410",
+    "shortName": "TBCO"
+  },
+  {
+    "longName": "Cigarettes",
+    "billCode": "OTH",
+    "standardCode": "411",
+    "shortName": "TBCO"
+  },
+  {
+    "longName": "Tobacco - Other",
+    "billCode": "OTH",
+    "standardCode": "412",
+    "shortName": "TBCO"
+  },
+  {
+    "longName": "Undefined Tobacco-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "413",
+    "shortName": "TBCO"
+  },
+  {
+    "longName": "Undefined Tobacco-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "414",
+    "shortName": "TBCO"
+  },
+  {
+    "longName": "Undefined Tobacco-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "415",
+    "shortName": "TBCO"
+  },
+  {
+    "longName": "Undefined Tobacco-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "416",
+    "shortName": "TBCO"
+  },
+  {
+    "longName": "Undefined Tobacco-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "417",
+    "shortName": "TBCO"
+  },
+  {
+    "longName": "Undefined Tobacco-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "418",
+    "shortName": "TBCO"
+  },
+  {
+    "longName": "Undefined Tobacco-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "419",
+    "shortName": "TBCO"
+  },
+  {
+    "longName": "General Packaged Beverage",
+    "billCode": "OTH",
+    "standardCode": "420",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Packaged Beverages (non-alcoholic)",
+    "billCode": "OTH",
+    "standardCode": "421",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Juice",
+    "billCode": "OTH",
+    "standardCode": "422",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Other Packaged Beverages",
+    "billCode": "OTH",
+    "standardCode": "423",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Packaged Beverages-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "424",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Packaged Beverages-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "425",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Packaged Beverages-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "426",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Packaged Beverages-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "427",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Packaged Beverages-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "428",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Packaged Beverages-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "429",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "General Dispensed Beverage",
+    "billCode": "OTH",
+    "standardCode": "430",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Hot Dispensed Beverages",
+    "billCode": "OTH",
+    "standardCode": "431",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Cold Dispensed Beverages",
+    "billCode": "OTH",
+    "standardCode": "432",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Frozen Dispensed Beverages",
+    "billCode": "OTH",
+    "standardCode": "433",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Other Dispensed Beverages",
+    "billCode": "OTH",
+    "standardCode": "434",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Dispensed Beverages-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "435",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Dispensed Beverages-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "436",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Dispensed Beverages-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "437",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Dispensed Beverages-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "438",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Dispensed Beverages-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "439",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "General Snacks",
+    "billCode": "OTH",
+    "standardCode": "440",
+    "shortName": "SNAK"
+  },
+  {
+    "longName": "Salty Snacks",
+    "billCode": "OTH",
+    "standardCode": "441",
+    "shortName": "SNAK"
+  },
+  {
+    "longName": "Alternative Snacks",
+    "billCode": "OTH",
+    "standardCode": "442",
+    "shortName": "SNAK"
+  },
+  {
+    "longName": "Sweet Snacks - Packaged",
+    "billCode": "OTH",
+    "standardCode": "443",
+    "shortName": "SNAK"
+  },
+  {
+    "longName": "Undefined Snacks-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "444",
+    "shortName": "SNAK"
+  },
+  {
+    "longName": "Undefined Snacks-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "445",
+    "shortName": "SNAK"
+  },
+  {
+    "longName": "Undefined Snacks-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "446",
+    "shortName": "SNAK"
+  },
+  {
+    "longName": "Undefined Snacks-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "447",
+    "shortName": "SNAK"
+  },
+  {
+    "longName": "Undefined Snacks-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "448",
+    "shortName": "SNAK"
+  },
+  {
+    "longName": "Undefined Snacks-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "449",
+    "shortName": "SNAK"
+  },
+  {
+    "longName": "General Candy",
+    "billCode": "OTH",
+    "standardCode": "450",
+    "shortName": "CNDY"
+  },
+  {
+    "longName": "Undefined Candy-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "451",
+    "shortName": "CNDY"
+  },
+  {
+    "longName": "Undefined Candy-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "452",
+    "shortName": "CNDY"
+  },
+  {
+    "longName": "Undefined Candy-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "453",
+    "shortName": "CNDY"
+  },
+  {
+    "longName": "Undefined Candy-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "454",
+    "shortName": "CNDY"
+  },
+  {
+    "longName": "Undefined Candy-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "455",
+    "shortName": "CNDY"
+  },
+  {
+    "longName": "Undefined Candy-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "456",
+    "shortName": "CNDY"
+  },
+  {
+    "longName": "Undefined Candy-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "457",
+    "shortName": "CNDY"
+  },
+  {
+    "longName": "Undefined Candy-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "458",
+    "shortName": "CNDY"
+  },
+  {
+    "longName": "Undefined Candy-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "459",
+    "shortName": "CNDY"
+  },
+  {
+    "longName": "General Dairy",
+    "billCode": "OTH",
+    "standardCode": "460",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Fluid Milk Products",
+    "billCode": "OTH",
+    "standardCode": "461",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Packaged Ice Cream/Novelties",
+    "billCode": "OTH",
+    "standardCode": "462",
+    "shortName": "SNAK"
+  },
+  {
+    "longName": "Other Dairy",
+    "billCode": "OTH",
+    "standardCode": "463",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Dairy-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "464",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Dairy-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "465",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Dairy-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "466",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Dairy-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "467",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Dairy-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "468",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "Undefined Dairy-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "469",
+    "shortName": "BEV"
+  },
+  {
+    "longName": "General Grocery",
+    "billCode": "OTH",
+    "standardCode": "470",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Groceries - Edible",
+    "billCode": "OTH",
+    "standardCode": "471",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Groceries - Non-Edible",
+    "billCode": "OTH",
+    "standardCode": "472",
+    "shortName": "NFUD"
+  },
+  {
+    "longName": "Groceries - Perishable",
+    "billCode": "OTH",
+    "standardCode": "473",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Bread - Packaged",
+    "billCode": "OTH",
+    "standardCode": "474",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Frozen Foods",
+    "billCode": "OTH",
+    "standardCode": "475",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Undefined Grocery-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "476",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Undefined Grocery-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "477",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Undefined Grocery-Reserved forProprietary Use",
+    "billCode": "OTH",
+    "standardCode": "478",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Undefined Grocery-Reserved forProprietary Use",
+    "billCode": "OTH",
+    "standardCode": "479",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "General Alcohol",
+    "billCode": "OTH",
+    "standardCode": "480",
+    "shortName": "ALC"
+  },
+  {
+    "longName": "Beer - Alcoholic",
+    "billCode": "OTH",
+    "standardCode": "481",
+    "shortName": "ALC"
+  },
+  {
+    "longName": "Beer - Non-Alcoholic",
+    "billCode": "OTH",
+    "standardCode": "482",
+    "shortName": "ALC"
+  },
+  {
+    "longName": "Wine",
+    "billCode": "OTH",
+    "standardCode": "483",
+    "shortName": "ALC"
+  },
+  {
+    "longName": "Liquor",
+    "billCode": "OTH",
+    "standardCode": "484",
+    "shortName": "ALC"
+  },
+  {
+    "longName": "Undefined Alcohol-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "485",
+    "shortName": "ALC"
+  },
+  {
+    "longName": "Undefined Alcohol-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "486",
+    "shortName": "ALC"
+  },
+  {
+    "longName": "Undefined Alcohol-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "487",
+    "shortName": "ALC"
+  },
+  {
+    "longName": "Undefined Alcohol-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "488",
+    "shortName": "ALC"
+  },
+  {
+    "longName": "Undefined Alcohol-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "489",
+    "shortName": "ALC"
+  },
+  {
+    "longName": "General Deli",
+    "billCode": "OTH",
+    "standardCode": "490",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Packaged Sandwiches/Deli Products",
+    "billCode": "OTH",
+    "standardCode": "491",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Prepared Foods",
+    "billCode": "OTH",
+    "standardCode": "492",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Deli Items",
+    "billCode": "OTH",
+    "standardCode": "493",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Undefined Deli-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "494",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Undefined Deli-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "495",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Undefined Deli-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "496",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Undefined Deli-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "497",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Undefined Deli-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "498",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "Undefined Deli-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "499",
+    "shortName": "FOOD"
+  },
+  {
+    "longName": "General Foodservice",
+    "billCode": "OTH",
+    "standardCode": "500",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Foodservice-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "501",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Foodservice-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "502",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Foodservice-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "503",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Foodservice-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "504",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Foodservice-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "505",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Foodservice-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "506",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Foodservice-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "507",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Foodservice-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "508",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Foodservice-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "509",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "General Lottery",
+    "billCode": "OTH",
+    "standardCode": "510",
+    "shortName": "LTRY"
+  },
+  {
+    "longName": "Lottery - Instant",
+    "billCode": "OTH",
+    "standardCode": "511",
+    "shortName": "LTRY"
+  },
+  {
+    "longName": "Lottery - Online",
+    "billCode": "OTH",
+    "standardCode": "512",
+    "shortName": "LTRY"
+  },
+  {
+    "longName": "Lottery - Other",
+    "billCode": "OTH",
+    "standardCode": "513",
+    "shortName": "LTRY"
+  },
+  {
+    "longName": "Undefined Lottery-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "514",
+    "shortName": "LTRY"
+  },
+  {
+    "longName": "Undefined Lottery-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "515",
+    "shortName": "LTRY"
+  },
+  {
+    "longName": "Undefined Lottery-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "516",
+    "shortName": "LRTY"
+  },
+  {
+    "longName": "Undefined Lottery-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "517",
+    "shortName": "LTRY"
+  },
+  {
+    "longName": "Undefined Lottery-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "518",
+    "shortName": "LTRY"
+  },
+  {
+    "longName": "Undefined Lottery-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "519",
+    "shortName": "LTRY"
+  },
+  {
+    "longName": "General Money Order",
+    "billCode": "OTH",
+    "standardCode": "520",
+    "shortName": "MODR"
+  },
+  {
+    "longName": "Money Order - Vendor Payment",
+    "billCode": "OTH",
+    "standardCode": "521",
+    "shortName": "MODR"
+  },
+  {
+    "longName": "Money Order - Payroll Check",
+    "billCode": "OTH",
+    "standardCode": "522",
+    "shortName": "MODR"
+  },
+  {
+    "longName": "Money Order - Gift Certificate",
+    "billCode": "OTH",
+    "standardCode": "523",
+    "shortName": "MODR"
+  },
+  {
+    "longName": "Money Order - Refund Check",
+    "billCode": "OTH",
+    "standardCode": "524",
+    "shortName": "MODR"
+  },
+  {
+    "longName": "Money Order - Official Check",
+    "billCode": "OTH",
+    "standardCode": "525",
+    "shortName": "MODR"
+  },
+  {
+    "longName": "Money Order - Rebate Check",
+    "billCode": "OTH",
+    "standardCode": "526",
+    "shortName": "MODR"
+  },
+  {
+    "longName": "Money Order - Dividend Check",
+    "billCode": "OTH",
+    "standardCode": "527",
+    "shortName": "MODR"
+  },
+  {
+    "longName": "Money Order - Utility Check",
+    "billCode": "OTH",
+    "standardCode": "528",
+    "shortName": "MODR"
+  },
+  {
+    "longName": "Undefined Money Order-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "529",
+    "shortName": "MODR"
+  },
+  {
+    "longName": "General Store Services",
+    "billCode": "OTH",
+    "standardCode": "530",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Home Delivery",
+    "billCode": "OTH",
+    "standardCode": "531",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Prepaid Cards - Purchase",
+    "billCode": "OTH",
+    "standardCode": "532",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Prepaid Cards - Activation/Recharge",
+    "billCode": "OTH",
+    "standardCode": "533",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Store Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "534",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Store Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "535",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Store Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "536",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Store Services-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "537",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Store Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "538",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Store Services-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "539",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "General Health & Beauty Care",
+    "billCode": "OTH",
+    "standardCode": "540",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Health & Beauty Care-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "541",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Health & Beauty Care-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "542",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Health & Beauty Care-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "543",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Health & Beauty Care-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "544",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Health & Beauty Care-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "545",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Health & Beauty Care-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "546",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Health & Beauty Care-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "547",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Health & Beauty Care-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "548",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Health & Beauty Care-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "549",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "General Publications",
+    "billCode": "OTH",
+    "standardCode": "550",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined General Publications-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "551",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined General Publications-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "552",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined General Publications-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "553",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined General Publications-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "554",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined General Publications-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "555",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined General Publications-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "556",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined General Publications-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "557",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined General Publications-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "558",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined General Publications-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "559",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "560",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "561",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "562",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "563",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "564",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "565",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "566",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "567",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "568",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "569",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "570",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "571",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "572",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "573",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "574",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "575",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "576",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "577",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "578",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "579",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "580",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "581",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "582",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "583",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "584",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "585",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "586",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "587",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "588",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "589",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "590",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "591",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "592",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "593",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "594",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "595",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "596",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "597",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "598",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Merchandise-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "599",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "DEF (Diesel Exhaust Fluid)",
+    "billCode": "FUL",
+    "standardCode": "600",
+    "shortName": "DEF"
+  },
+  {
+    "longName": "B99",
+    "billCode": "FUL",
+    "standardCode": "601",
+    "shortName": "BIOD"
+  },
+  {
+    "longName": "B100",
+    "billCode": "FUL",
+    "standardCode": "602",
+    "shortName": "BIOD"
+  },
+  {
+    "longName": "Additive",
+    "billCode": "SER",
+    "standardCode": "603",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Kerosene",
+    "billCode": "FUL",
+    "standardCode": "604",
+    "shortName": "KERO"
+  },
+  {
+    "longName": "Propane",
+    "billCode": "FUL",
+    "standardCode": "605",
+    "shortName": "LP"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "606",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "607",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "608",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "609",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "610",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "611",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "612",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "613",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "614",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "615",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "616",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "617",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "618",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "619",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "620",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "621",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "622",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "623",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "624",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "625",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "626",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "627",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "628",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "629",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "630",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "631",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "632",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "633",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "634",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "635",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "636",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "637",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "638",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "639",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "640",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "641",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "642",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "643",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "644",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "645",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "646",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "647",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "648",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "649",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Scales",
+    "billCode": "SER",
+    "standardCode": "650",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Shower",
+    "billCode": "SER",
+    "standardCode": "651",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Tire Repair",
+    "billCode": "SER",
+    "standardCode": "652",
+    "shortName": "LBR"
+  },
+  {
+    "longName": "Lodging",
+    "billCode": "SER",
+    "standardCode": "653",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Washout",
+    "billCode": "SER",
+    "standardCode": "654",
+    "shortName": "WASH"
+  },
+  {
+    "longName": "Trailer Wash",
+    "billCode": "SER",
+    "standardCode": "655",
+    "shortName": "WASH"
+  },
+  {
+    "longName": "RV Dump Fee",
+    "billCode": "OTH",
+    "standardCode": "656",
+    "shortName": "ENV"
+  },
+  {
+    "longName": "EV Charging Fee",
+    "billCode": "OTH",
+    "standardCode": "657",
+    "shortName": "EVC2"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "658",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "659",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "660",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "661",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "662",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "663",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "664",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "665",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "666",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "667",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "668",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "669",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "670",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "671",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "672",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "673",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "674",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "675",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "676",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "677",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "678",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "679",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "680",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "681",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "682",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "683",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "684",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "685",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "686",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "687",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "688",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "689",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "690",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "691",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "692",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "693",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "694",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "695",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "696",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "697",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "698",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "699",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "700",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "701",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "702",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "703",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "704",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "705",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "706",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "707",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "708",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "709",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "710",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "711",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "712",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "713",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "714",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "715",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "716",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "717",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "718",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "719",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "720",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "721",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "722",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "723",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "724",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "725",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "726",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "727",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "728",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "729",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "730",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "731",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "732",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "733",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "734",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "735",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "736",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "737",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "738",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "739",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "740",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "741",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "742",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "743",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "744",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "745",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "746",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "747",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "748",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "749",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "750",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "751",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "752",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "753",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "754",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "755",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "756",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "757",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "758",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "759",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "760",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "761",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "762",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "763",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "764",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "765",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "766",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "767",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "768",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "769",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "770",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "771",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "772",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "773",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "774",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "775",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "776",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "777",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "778",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "779",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "780",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "781",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "782",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "783",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "784",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "785",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "786",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "787",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "788",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "789",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "790",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "791",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "792",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "793",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "794",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "795",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "796",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "797",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "798",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "799",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "800",
+    "shortName": "MCC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "801",
+    "shortName": "REP"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "802",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "803",
+    "shortName": "ENV"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "804",
+    "shortName": "CAR"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "805",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "806",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "807",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "808",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "809",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "810",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "811",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "812",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "813",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "814",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "815",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "816",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "817",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "818",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "819",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "820",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "821",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "822",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "823",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "824",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "825",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "826",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "827",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "828",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "829",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "830",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "831",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "832",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "833",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "834",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "835",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "836",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "837",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "838",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "839",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "840",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "841",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "842",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "843",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "844",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "845",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "846",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "847",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "848",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "849",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "850",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "851",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "852",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "853",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "854",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "855",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "856",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "857",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "858",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "859",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "860",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "861",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "862",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "863",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "864",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "865",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "866",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "867",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "868",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "869",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "870",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "871",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "872",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "873",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "874",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "875",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "876",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "877",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "878",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "879",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "880",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "881",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "882",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "883",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "884",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "885",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "886",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "887",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "888",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "889",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "890",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "891",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "892",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "893",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "894",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "895",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "896",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "897",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "898",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "899",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Discount 1",
+    "billCode": "OTH",
+    "standardCode": "900",
+    "shortName": "DISC"
+  },
+  {
+    "longName": "Discount 2",
+    "billCode": "OTH",
+    "standardCode": "901",
+    "shortName": "DIS"
+  },
+  {
+    "longName": "Discount 3",
+    "billCode": "OTH",
+    "standardCode": "902",
+    "shortName": "DISC"
+  },
+  {
+    "longName": "Discount 4",
+    "billCode": "OTH",
+    "standardCode": "903",
+    "shortName": "DISC"
+  },
+  {
+    "longName": "Discount 5",
+    "billCode": "OTH",
+    "standardCode": "904",
+    "shortName": "DISC"
+  },
+  {
+    "longName": "Coupon 1",
+    "billCode": "OTH",
+    "standardCode": "905",
+    "shortName": "COUP"
+  },
+  {
+    "longName": "Coupon 2",
+    "billCode": "OTH",
+    "standardCode": "906",
+    "shortName": "COUP"
+  },
+  {
+    "longName": "Coupon 3",
+    "billCode": "OTH",
+    "standardCode": "907",
+    "shortName": "COUP"
+  },
+  {
+    "longName": "Coupon 4",
+    "billCode": "OTH",
+    "standardCode": "908",
+    "shortName": "COUP"
+  },
+  {
+    "longName": "Coupon 5",
+    "billCode": "OTH",
+    "standardCode": "909",
+    "shortName": "COUP"
+  },
+  {
+    "longName": "Lottery Pay Out - Instant",
+    "billCode": "OTH",
+    "standardCode": "910",
+    "shortName": "LTRY"
+  },
+  {
+    "longName": "Lottery Pay Out - Online",
+    "billCode": "OTH",
+    "standardCode": "911",
+    "shortName": "LTRY"
+  },
+  {
+    "longName": "Lottery Pay Out - Other",
+    "billCode": "OTH",
+    "standardCode": "912",
+    "shortName": "LTRY"
+  },
+  {
+    "longName": "Split Tender",
+    "billCode": "OTH",
+    "standardCode": "913",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "914",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "915",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "916",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "917",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "918",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "919",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "920",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "921",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "922",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "923",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "924",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "925",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "926",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "927",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "928",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "929",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "930",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "931",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "932",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "933",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "934",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "935",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "936",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "937",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "938",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "939",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "940",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "941",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "942",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "943",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "944",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "945",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "946",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "947",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Negative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "948",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Miscellaneous Negative Administrative 949",
+    "billCode": "OTH",
+    "standardCode": "949",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Tax 1",
+    "billCode": "OTH",
+    "standardCode": "950",
+    "shortName": "SAL",
+    "unitType": "each"
+  },
+  {
+    "longName": "Tax 2",
+    "billCode": "OTH",
+    "standardCode": "951",
+    "shortName": "TAX",
+    "unitType": "each"
+  },
+  {
+    "longName": "Tax 3",
+    "billCode": "OTH",
+    "standardCode": "952",
+    "shortName": "STX",
+    "unitType": "each"
+  },
+  {
+    "longName": "Tax 4",
+    "billCode": "OTH",
+    "standardCode": "953",
+    "shortName": "FET",
+    "unitType": "each"
+  },
+  {
+    "longName": "Tax 5",
+    "billCode": "OTH",
+    "standardCode": "954",
+    "shortName": "MFT",
+    "unitType": "each"
+  },
+  {
+    "longName": "Cash Back",
+    "billCode": "OTH",
+    "standardCode": "955",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Cash Back Fee",
+    "billCode": "OTH",
+    "standardCode": "956",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Fee 1",
+    "billCode": "OTH",
+    "standardCode": "957",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Fee 2",
+    "billCode": "OTH",
+    "standardCode": "958",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Fee 3",
+    "billCode": "OTH",
+    "standardCode": "959",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Fee 4",
+    "billCode": "OTH",
+    "standardCode": "960",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Fee 5",
+    "billCode": "OTH",
+    "standardCode": "961",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Miscellaneous Aviation Tax",
+    "billCode": "OTH",
+    "standardCode": "962",
+    "shortName": "MTX"
+  },
+  {
+    "longName": "GHST / HST (Canadian)",
+    "billCode": "OTH",
+    "standardCode": "963",
+    "shortName": "GHST"
+  },
+  {
+    "longName": "PQST / QST (Canadian)",
+    "billCode": "OTH",
+    "standardCode": "964",
+    "shortName": "PQST"
+  },
+  {
+    "longName": "SWT Rate (Canadian)",
+    "billCode": "OTH",
+    "standardCode": "965",
+    "shortName": "SWT"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "966",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "967",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "968",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Jet Federal Excise Tax",
+    "billCode": "OTH",
+    "standardCode": "969",
+    "shortName": "MTX"
+  },
+  {
+    "longName": "AVGas Federal Excise Tax",
+    "billCode": "OTH",
+    "standardCode": "970",
+    "shortName": "MTX"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "971",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "972",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "973",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "974",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "975",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "976",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "977",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "978",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "979",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "980",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "981",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "982",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "983",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "984",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "985",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "986",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "987",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "988",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "989",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for NACS Future Use",
+    "billCode": "OTH",
+    "standardCode": "990",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "991",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "992",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "993",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "994",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "995",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "996",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "997",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Undefined Administrative-Reserved for Proprietary Use",
+    "billCode": "OTH",
+    "standardCode": "998",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Miscellaneous Administrative",
+    "billCode": "OTH",
+    "standardCode": "999",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Diesel Exhaust Fluid (DEF)",
+    "billCode": "OTH",
+    "standardCode": "1031",
+    "shortName": "DEFL"
+  },
+  {
+    "longName": "Restrooms",
+    "billCode": "OTH",
+    "standardCode": "1032",
+    "shortName": "RSRM"
+  },
+  {
+    "longName": "General Automotive Merchandise",
+    "billCode": "SER",
+    "standardCode": "100",
+    "shortName": "MER"
+  },
+  {
+    "longName": "Motor Oil",
+    "billCode": "SER",
+    "standardCode": "101",
+    "shortName": "MOT"
+  },
+  {
+    "longName": "Car Wash",
+    "billCode": "SER",
+    "standardCode": "102",
+    "shortName": "WASH",
+    "unitType": "each"
+  },
+  {
+    "longName": "Oil Change",
+    "billCode": "SER",
+    "standardCode": "103",
+    "shortName": "OIL"
+  },
+  {
+    "longName": "Oil Filter",
+    "billCode": "SER",
+    "standardCode": "104",
+    "shortName": "FILT"
+  },
+  {
+    "longName": "Work Order",
+    "billCode": "SER",
+    "standardCode": "105",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Anti-Freeze",
+    "billCode": "SER",
+    "standardCode": "106",
+    "shortName": "FLU"
+  },
+  {
+    "longName": "Washer Fluid",
+    "billCode": "SER",
+    "standardCode": "107",
+    "shortName": "FLU"
+  },
+  {
+    "longName": "Brake Fluid",
+    "billCode": "SER",
+    "standardCode": "108",
+    "shortName": "FLU"
+  },
+  {
+    "longName": "Tires",
+    "billCode": "SER",
+    "standardCode": "109",
+    "shortName": "TIRE"
+  },
+  {
+    "longName": "Tire Rotation",
+    "billCode": "SER",
+    "standardCode": "111",
+    "shortName": "TSER"
+  },
+  {
+    "longName": "Batteries",
+    "billCode": "SER",
+    "standardCode": "112",
+    "shortName": "BAT"
+  },
+  {
+    "longName": "Lube",
+    "billCode": "SER",
+    "standardCode": "113",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Inspection",
+    "billCode": "SER",
+    "standardCode": "114",
+    "shortName": "INSP"
+  },
+  {
+    "longName": "Labor",
+    "billCode": "SER",
+    "standardCode": "115",
+    "shortName": "LBR"
+  },
+  {
+    "longName": "Towing",
+    "billCode": "SER",
+    "standardCode": "116",
+    "shortName": "R&T"
+  },
+  {
+    "longName": "Road Service",
+    "billCode": "SER",
+    "standardCode": "117",
+    "shortName": "R&T"
+  },
+  {
+    "longName": "Auto Accessories",
+    "billCode": "SER",
+    "standardCode": "118",
+    "shortName": "TBA"
+  },
+  {
+    "longName": "Auto Parts",
+    "billCode": "SER",
+    "standardCode": "119",
+    "shortName": "PRT"
+  },
+  {
+    "longName": "Preventative Maintenance",
+    "billCode": "SER",
+    "standardCode": "120",
+    "shortName": "TUNE"
+  },
+  {
+    "longName": "Air Conditioning Service",
+    "billCode": "SER",
+    "standardCode": "121",
+    "shortName": "A/C"
+  },
+  {
+    "longName": "Engine Service",
+    "billCode": "SER",
+    "standardCode": "122",
+    "shortName": "ENG"
+  },
+  {
+    "longName": "Transmission Service",
+    "billCode": "SER",
+    "standardCode": "123",
+    "shortName": "TRNS"
+  },
+  {
+    "longName": "Brake Service",
+    "billCode": "SER",
+    "standardCode": "124",
+    "shortName": "BRK"
+  },
+  {
+    "longName": "Exhaust Service",
+    "billCode": "SER",
+    "standardCode": "125",
+    "shortName": "EXH"
+  },
+  {
+    "longName": "Body Work",
+    "billCode": "SER",
+    "standardCode": "126",
+    "shortName": "BDY"
+  },
+  {
+    "longName": "Automotive Glass",
+    "billCode": "SER",
+    "standardCode": "127",
+    "shortName": "GLS"
+  },
+  {
+    "longName": "Synthetic Oil",
+    "billCode": "SER",
+    "standardCode": "128",
+    "shortName": "OIL"
+  },
+  {
+    "longName": "Lamps",
+    "billCode": "SER",
+    "standardCode": "129",
+    "shortName": "LAMP"
+  },
+  {
+    "longName": "Wipers",
+    "billCode": "SER",
+    "standardCode": "130",
+    "shortName": "WIPR"
+  },
+  {
+    "longName": "Hoses",
+    "billCode": "SER",
+    "standardCode": "131",
+    "shortName": "HOSE"
+  },
+  {
+    "longName": "Tire-related(Wheel Balance, Valve Stem)",
+    "billCode": "SER",
+    "standardCode": "132",
+    "shortName": "TRL"
+  },
+  {
+    "longName": "Repairs",
+    "billCode": "SER",
+    "standardCode": "133",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Service Package",
+    "billCode": "SER",
+    "standardCode": "134",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Undefined Parts / Service-Reserved for NACS Future Use",
+    "billCode": "SER",
+    "standardCode": "135",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Undefined Parts / Service-Reserved for NACS Future Use",
+    "billCode": "SER",
+    "standardCode": "136",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Undefined Parts / Service-Reserved for NACS Future Use",
+    "billCode": "SER",
+    "standardCode": "137",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Automotive Fuel Additives/Treatmetn (injected)",
+    "billCode": "SER",
+    "standardCode": "138",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Vehicle Rental",
+    "billCode": "SER",
+    "standardCode": "139",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Air Filter",
+    "billCode": "SER",
+    "standardCode": "140",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Vehicle Prep",
+    "billCode": "SER",
+    "standardCode": "141",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Fuel System",
+    "billCode": "SER",
+    "standardCode": "142",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Undefined Parts / Service-Reserved for Proprietary Use",
+    "billCode": "SER",
+    "standardCode": "143",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Undefined Parts / Service-Reserved for Proprietary Use",
+    "billCode": "SER",
+    "standardCode": "144",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Undefined Parts / Service-Reserved for Proprietary Use",
+    "billCode": "SER",
+    "standardCode": "145",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Undefined Parts / Service-Reserved for Proprietary Use",
+    "billCode": "SER",
+    "standardCode": "146",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Undefined Parts / Service-Reserved for Proprietary Use",
+    "billCode": "SER",
+    "standardCode": "147",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Undefined Parts / Service-Reserved for Proprietary Use",
+    "billCode": "SER",
+    "standardCode": "148",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Miscellaneous Parts / Service",
+    "billCode": "SER",
+    "standardCode": "149",
+    "shortName": "SVC"
+  },
+  {
+    "longName": "Aircraft Labor",
+    "billCode": "SER",
+    "standardCode": "178",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Aircraft Work Order",
+    "billCode": "SER",
+    "standardCode": "179",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Aircraft Maintenance",
+    "billCode": "SER",
+    "standardCode": "180",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Aircraft Service",
+    "billCode": "SER",
+    "standardCode": "181",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Catering",
+    "billCode": "SER",
+    "standardCode": "185",
+    "shortName": "AMC"
+  },
+  {
+    "longName": "Marine Service",
+    "billCode": "SER",
+    "standardCode": "250",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Marine Labor",
+    "billCode": "SER",
+    "standardCode": "251",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Marine Work Order",
+    "billCode": "SER",
+    "standardCode": "252",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Miscellaneous Marine Service",
+    "billCode": "SER",
+    "standardCode": "299",
+    "shortName": "MISC"
+  },
+  {
+    "longName": "Truck Scales",
+    "billCode": "SER",
+    "standardCode": "1006",
+    "shortName": "SCA"
+  },
+  {
+    "longName": "Truck Wash",
+    "billCode": "SER",
+    "standardCode": "1007",
+    "shortName": "WASH"
+  },
+  {
+    "longName": "Carpet Cleaner",
+    "billCode": "SER",
+    "standardCode": "1008",
+    "shortName": "CLNR"
+  },
+  {
+    "longName": "Vacuum",
+    "billCode": "SER",
+    "standardCode": "1009",
+    "shortName": "VAC"
+  },
+  {
+    "longName": "Hydraulic Oil (Gal)",
+    "billCode": "SER",
+    "standardCode": "1010",
+    "shortName": "FLU"
+  },
+  {
+    "longName": "Premium Hydraulic Oil (Gal)",
+    "billCode": "SER",
+    "standardCode": "1011",
+    "shortName": "FLU"
+  },
+  {
+    "longName": "Chain Bar Oil (Gal)",
+    "billCode": "SER",
+    "standardCode": "1012",
+    "shortName": "FLU"
+  },
+  {
+    "longName": "Solvents (Gal)",
+    "billCode": "SER",
+    "standardCode": "1013",
+    "shortName": "SOL"
+  },
+  {
+    "longName": "Auto Trans Fluid (Qt)",
+    "billCode": "SER",
+    "standardCode": "1014",
+    "shortName": "FLU"
+  },
+  {
+    "longName": "Motor Oil (Gal)",
+    "billCode": "SER",
+    "standardCode": "1015",
+    "shortName": "MOT"
+  },
+  {
+    "longName": "Super Plus 15-40",
+    "billCode": "SER",
+    "standardCode": "1016",
+    "shortName": "MOT"
+  },
+  {
+    "longName": "Super Plus 30",
+    "billCode": "SER",
+    "standardCode": "1017",
+    "shortName": "MOT"
+  },
+  {
+    "longName": "XHD 10-30",
+    "billCode": "SER",
+    "standardCode": "1018",
+    "shortName": "MOT"
+  },
+  {
+    "longName": "Motor Oil 40",
+    "billCode": "SER",
+    "standardCode": "1019",
+    "shortName": "MOT"
+  },
+  {
+    "longName": "Cranking System",
+    "billCode": "SER",
+    "standardCode": "A01",
+    "shortName": "CRNK"
+  },
+  {
+    "longName": "Engine",
+    "billCode": "SER",
+    "standardCode": "A02",
+    "shortName": "ENGN"
+  },
+  {
+    "longName": "Fuel System",
+    "billCode": "SER",
+    "standardCode": "A03",
+    "shortName": "FULS"
+  },
+  {
+    "longName": "Automatic Transmission",
+    "billCode": "SER",
+    "standardCode": "A04",
+    "shortName": "ATRN"
+  },
+  {
+    "longName": "Cooling System",
+    "billCode": "SER",
+    "standardCode": "A05",
+    "shortName": "COLS"
+  },
+  {
+    "longName": "Lighting System",
+    "billCode": "SER",
+    "standardCode": "A06",
+    "shortName": "LITE"
+  },
+  {
+    "longName": "Steering",
+    "billCode": "SER",
+    "standardCode": "A07",
+    "shortName": "STER"
+  },
+  {
+    "longName": "Suspension",
+    "billCode": "SER",
+    "standardCode": "A08",
+    "shortName": "SUSP"
+  },
+  {
+    "longName": "Tires and Tubes",
+    "billCode": "SER",
+    "standardCode": "A09",
+    "shortName": "TIRS"
+  },
+  {
+    "longName": "Charging System",
+    "billCode": "SER",
+    "standardCode": "A10",
+    "shortName": "SHRG"
+  },
+  {
+    "longName": "Electronic/Emissions",
+    "billCode": "SER",
+    "standardCode": "A11",
+    "shortName": "ELEM"
+  },
+  {
+    "longName": "Body",
+    "billCode": "SER",
+    "standardCode": "A12",
+    "shortName": "BODY"
+  },
+  {
+    "longName": "Instruments & Guage",
+    "billCode": "SER",
+    "standardCode": "A13",
+    "shortName": "INST"
+  },
+  {
+    "longName": "Rear Drive Axle",
+    "billCode": "SER",
+    "standardCode": "A14",
+    "shortName": "AXLE"
+  },
+  {
+    "longName": "Air Filters",
+    "billCode": "SER",
+    "standardCode": "A15",
+    "shortName": "AFLT"
+  },
+  {
+    "longName": "Front Axle",
+    "billCode": "SER",
+    "standardCode": "A16",
+    "shortName": "AXLE"
+  },
+  {
+    "longName": "Services",
+    "billCode": "SER",
+    "standardCode": "A17",
+    "shortName": "SVCS"
+  },
+  {
+    "longName": "Hydraulic System",
+    "billCode": "SER",
+    "standardCode": "A18",
+    "shortName": "HYDR"
+  },
+  {
+    "longName": "Front Drive Axle",
+    "billCode": "SER",
+    "standardCode": "A19",
+    "shortName": "FAXL"
+  },
+  {
+    "longName": "Drive Shafts",
+    "billCode": "SER",
+    "standardCode": "A20",
+    "shortName": "DSHF"
+  },
+  {
+    "longName": "Wiper Blade",
+    "billCode": "SER",
+    "standardCode": "A21",
+    "shortName": "WIPR"
+  },
+  {
+    "longName": "Tire Balance & Rotation",
+    "billCode": "SER",
+    "standardCode": "A22",
+    "shortName": "TBNR"
+  },
+  {
+    "longName": "Windshield Repair",
+    "billCode": "SER",
+    "standardCode": "A23",
+    "shortName": "WFIX"
+  },
+  {
+    "longName": "Flat",
+    "billCode": "SER",
+    "standardCode": "A24",
+    "shortName": "FLAT"
+  },
+  {
+    "longName": "Electrical Group",
+    "billCode": "SER",
+    "standardCode": "A25",
+    "shortName": "ELEC"
+  },
+  {
+    "longName": "Computer Diagnostics",
+    "billCode": "SER",
+    "standardCode": "A26",
+    "shortName": "CDIG"
+  },
+  {
+    "longName": "Fluids",
+    "billCode": "SER",
+    "standardCode": "A27",
+    "shortName": "FLUD"
+  },
+  {
+    "longName": "Alignment",
+    "billCode": "SER",
+    "standardCode": "A28",
+    "shortName": "ALIG"
+  },
+  {
+    "longName": "Trans Serv Automatic",
+    "billCode": "SER",
+    "standardCode": "A29",
+    "shortName": "TRAN"
+  },
+  {
+    "longName": "Roadside Service",
+    "billCode": "SER",
+    "standardCode": "A30",
+    "shortName": "RDSD"
+  },
+  {
+    "longName": "Statutory Inspection",
+    "billCode": "SER",
+    "standardCode": "A31",
+    "shortName": "INSP"
+  },
+  {
+    "longName": "Tire Snow Chains",
+    "billCode": "SER",
+    "standardCode": "A32",
+    "shortName": "TCHN"
+  },
+  {
+    "longName": "Brake Inspection",
+    "billCode": "SER",
+    "standardCode": "A33",
+    "shortName": "BRAK"
+  },
+  {
+    "longName": "Fuel Filter",
+    "billCode": "SER",
+    "standardCode": "A34",
+    "shortName": "FFLT"
+  },
+  {
+    "longName": "Battery",
+    "billCode": "SER",
+    "standardCode": "A35",
+    "shortName": "BTRY"
+  },
+  {
+    "longName": "Vehicle Prep",
+    "billCode": "SER",
+    "standardCode": "A36",
+    "shortName": "VPRP"
+  },
+  {
+    "longName": "Keys",
+    "billCode": "SER",
+    "standardCode": "A37",
+    "shortName": "KEYS"
+  },
+  {
+    "longName": "Lockout",
+    "billCode": "SER",
+    "standardCode": "A38",
+    "shortName": "LKOT"
+  },
+  {
+    "longName": "Door Lock Repair/Replace",
+    "billCode": "SER",
+    "standardCode": "A39",
+    "shortName": "DLOK"
+  },
+  {
+    "longName": "Stalled",
+    "billCode": "SER",
+    "standardCode": "A40",
+    "shortName": "STAL"
+  },
+  {
+    "longName": "Tire Change",
+    "billCode": "SER",
+    "standardCode": "A41",
+    "shortName": "TCHG"
+  },
+  {
+    "longName": "Jump Start",
+    "billCode": "SER",
+    "standardCode": "A42",
+    "shortName": "JUMP"
+  },
+  {
+    "longName": "Fuel Delivery",
+    "billCode": "SER",
+    "standardCode": "A43",
+    "shortName": "FDEL"
+  },
+  {
+    "longName": "GOA (Gone On Arrival)",
+    "billCode": "SER",
+    "standardCode": "A44",
+    "shortName": "GOA"
+  },
+  {
+    "longName": "Tow & Secure",
+    "billCode": "SER",
+    "standardCode": "A45",
+    "shortName": "TWSC"
+  },
+  {
+    "longName": "Preventative Maintenance",
+    "billCode": "SER",
+    "standardCode": "A46",
+    "shortName": "PREV"
+  },
+  {
+    "longName": "Transport",
+    "billCode": "SER",
+    "standardCode": "A47",
+    "shortName": "TNSP"
+  },
+  {
+    "longName": "Mobile Repairs",
+    "billCode": "SER",
+    "standardCode": "A48",
+    "shortName": "MREP"
+  },
+  {
+    "longName": "Carriage Lift Truck",
+    "billCode": "SER",
+    "standardCode": "A49",
+    "shortName": "LIFT"
+  },
+  {
+    "longName": "Horn & Mounting",
+    "billCode": "SER",
+    "standardCode": "A50",
+    "shortName": "HORN"
+  },
+  {
+    "longName": "Transmission Manual",
+    "billCode": "SER",
+    "standardCode": "A51",
+    "shortName": "MTRN"
+  },
+  {
+    "longName": "Spare Wheel Mount",
+    "billCode": "SER",
+    "standardCode": "A52",
+    "shortName": "SPRW"
+  },
+  {
+    "longName": "Drive Train",
+    "billCode": "SER",
+    "standardCode": "A53",
+    "shortName": "DTRN"
+  },
+  {
+    "longName": "Rear Axle",
+    "billCode": "SER",
+    "standardCode": "A54",
+    "shortName": "RAXL"
+  },
+  {
+    "longName": "Auxillary Power",
+    "billCode": "SER",
+    "standardCode": "A55",
+    "shortName": "AXPW"
+  },
+  {
+    "longName": "Aerodynamic Device",
+    "billCode": "SER",
+    "standardCode": "A56",
+    "shortName": "AERO"
+  },
+  {
+    "longName": "Disposal Prep",
+    "billCode": "SER",
+    "standardCode": "A57",
+    "shortName": "DISP"
+  },
+  {
+    "longName": "Transaxle",
+    "billCode": "SER",
+    "standardCode": "A58",
+    "shortName": "TXLE"
+  },
+  {
+    "longName": "Interior Wash Job/Detail",
+    "billCode": "SER",
+    "standardCode": "A59",
+    "shortName": "IWSH"
+  },
+  {
+    "longName": "Wheel Hubs & Bearing",
+    "billCode": "SER",
+    "standardCode": "A60",
+    "shortName": "WHNB"
+  },
+  {
+    "longName": "Air Cond, Heating & Vent",
+    "billCode": "SER",
+    "standardCode": "A61",
+    "shortName": "ACHV"
+  },
+  {
+    "longName": "Belts - Service & Replace",
+    "billCode": "SER",
+    "standardCode": "A62",
+    "shortName": "BSNR"
+  },
+  {
+    "longName": "Glass Auto Windshield",
+    "billCode": "SER",
+    "standardCode": "A63",
+    "shortName": "GLAS"
+  },
+  {
+    "longName": "Storage",
+    "billCode": "SER",
+    "standardCode": "A64",
+    "shortName": "STOR"
+  },
+  {
+    "longName": "Expendable Items",
+    "billCode": "SER",
+    "standardCode": "A65",
+    "shortName": "XPND"
+  },
+  {
+    "longName": "Radio Maintenance",
+    "billCode": "SER",
+    "standardCode": "A67",
+    "shortName": "RADO"
+  },
+  {
+    "longName": "Tune Up",
+    "billCode": "SER",
+    "standardCode": "A68",
+    "shortName": "TUNE"
+  },
+  {
+    "longName": "Transfer Case",
+    "billCode": "SER",
+    "standardCode": "A69",
+    "shortName": "TNSF"
+  },
+  {
+    "longName": "Clutch",
+    "billCode": "SER",
+    "standardCode": "A70",
+    "shortName": "CLCH"
+  },
+  {
+    "longName": "Ignition System",
+    "billCode": "SER",
+    "standardCode": "A71",
+    "shortName": "IGNI"
+  },
+  {
+    "longName": "Chassis",
+    "billCode": "SER",
+    "standardCode": "A72",
+    "shortName": "CHAS"
+  },
+  {
+    "longName": "Frame",
+    "billCode": "SER",
+    "standardCode": "A73",
+    "shortName": "FRAM"
+  },
+  {
+    "longName": "Exhaust System",
+    "billCode": "SER",
+    "standardCode": "A74",
+    "shortName": "EXST"
+  },
+  {
+    "longName": "Accessories",
+    "billCode": "SER",
+    "standardCode": "A75",
+    "shortName": "ACCS"
+  },
+  {
+    "longName": "Electrical Accessories",
+    "billCode": "SER",
+    "standardCode": "A76",
+    "shortName": "EACC"
+  },
+  {
+    "longName": "Winch",
+    "billCode": "SER",
+    "standardCode": "A77",
+    "shortName": "WNCH"
+  },
+  {
+    "longName": "Coupler System",
+    "billCode": "SER",
+    "standardCode": "A78",
+    "shortName": "CPLR"
+  },
+  {
+    "longName": "Hydraulic Sys Spec App",
+    "billCode": "SER",
+    "standardCode": "A79",
+    "shortName": "HYDR"
+  },
+  {
+    "longName": "Miscellaneous",
+    "billCode": "SER",
+    "standardCode": "A80",
+    "shortName": "MISC"
+  }
+]
